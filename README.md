@@ -8,7 +8,8 @@ This code is based on the algorithms proposed in:
 
 If you use the code/algorithm for research, please cite the above paper as appropriate.
 
-You can reference a static version of this code by its DOI number: TBD
+You can reference a static version of this code by its DOI number: [![DOI](https://zenodo.org/badge/607278241.svg)](https://zenodo.org/badge/latestdoi/607278241)
+
 
 # Sample results
 
