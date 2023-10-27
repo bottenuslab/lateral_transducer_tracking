@@ -4,7 +4,7 @@ Analyze ultrasound channel data from pulse echo imaging to estimate lateral disp
 
 This code is based on the algorithms proposed in:
 
-> Bottenus, N. "Implementation of constrained swept synthetic aperture using a mechanical fixture". (in review)
+> Bottenus, N. "Implementation of constrained swept synthetic aperture using a mechanical fixture". Applied Sciences, 13(8), April 2023. [Link](https://doi.org/10.3390/app13084797)
 
 If you use the code/algorithm for research, please cite the above paper as appropriate.
 
